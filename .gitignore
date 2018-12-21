@@ -17,13 +17,9 @@
 *.launch
 .settings/
 *.sublime-workspace
+temp_auto_push.bat
 
 # IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
 # misc
 /.sass-cache
@@ -41,3 +37,5 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+.gitignore
+temp_interactive_push.bat
